@@ -1,4 +1,4 @@
-# Build AI Chat with App
+# AI Chat with App
 
 ## Project Overview
 
